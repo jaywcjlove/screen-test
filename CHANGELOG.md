@@ -6,6 +6,6 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/ScreenTest/6755948110" title="Screen Test for macOS">
+<a target="_blank" href="https://apps.apple.com/app/ScreenTest/6757317079" title="Screen Test for macOS">
 <img alt="Screen Test AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
