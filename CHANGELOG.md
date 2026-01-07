@@ -9,3 +9,6 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/ScreenTest/6757317079" title="Screen Test for macOS">
 <img alt="Screen Test AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
+
+
+## [v1.0.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.0.0)
