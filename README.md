@@ -33,6 +33,11 @@
 
 ![](./assets/screenshots-5.png)
 
-This is a professional software that helps you quickly and easily evaluate the image quality and display performance of your monitor. It includes more than 25 tests, which can detect dead pixels, light bleeding, vertical banding, screen uniformity, and other issues. Suitable for screen testing, screen inspection, monitor testing, dead pixel detection, and other scenarios, it is a practical tool for monitor testing.
+Quickly and easily evaluate your monitor’s image quality and display performance.
 
-Please note, this testing tool usually will not cause any damage to your display device, but it cannot replace professional testing equipment, and the test results are for reference only.
+This app provides over 25 built-in test patterns to help detect common display issues such as dead pixels, backlight bleeding, vertical banding, and screen uniformity problems. It is ideal for monitor testing, display inspection, and pixel defect checks.
+
+Designed for everyday users and professionals alike, this tool offers a simple and reliable way to assess display quality.
+
+Note: This app does not cause damage to display devices. It is intended for reference only and does not replace professional testing equipment.
+
