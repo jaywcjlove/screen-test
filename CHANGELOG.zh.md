@@ -6,7 +6,7 @@
 更新日志
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/Screen Test/6757317079" title="Screen Test for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS">
 <img alt="Screen Test AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
