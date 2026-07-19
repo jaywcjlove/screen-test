@@ -35,7 +35,7 @@
 
 Quickly and easily evaluate your monitor’s image quality and display performance.
 
-This app provides over 25 built-in test patterns to help detect common display issues such as dead pixels, backlight bleeding, vertical banding, and screen uniformity problems. It is ideal for monitor testing, display inspection, and pixel defect checks.
+This app provides over 34 built-in test patterns to help detect common display issues such as dead pixels, backlight bleeding, vertical banding, and screen uniformity problems. It is ideal for monitor testing, display inspection, and pixel defect checks.
 
 Designed for everyday users and professionals alike, this tool offers a simple and reliable way to assess display quality.
 

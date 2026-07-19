@@ -11,4 +11,14 @@ Changelog
 </a>
 
 
+## [v1.1.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.1.0)
+
+1. feat: add Dead Pixel cycle test tool 
+2. feat: add Text Resolution chart test tool 
+3. feat: add Motion Blur ghosting test tool 
+4. feat: add Custom Color solid fill test tool 
+5. feat: add Checkerboard contrast test tool 
+6. feat: add Gray Steps test tool 
+7. feat: Add Sharpness text editing
+
 ## [v1.0.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.0.0)
