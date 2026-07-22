@@ -11,6 +11,10 @@ Changelog
 </a>
 
 
+## [v1.2.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.2.0)
+
+1. feat: add de/fr/it/ja/ko/ru/zh_hant langauge.
+
 ## [v1.1.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.1.0)
 
 1. feat: add Dead Pixel cycle test tool 

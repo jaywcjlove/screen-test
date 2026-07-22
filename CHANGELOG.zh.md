@@ -10,6 +10,10 @@
 <img alt="Screen Test AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.2.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.2.0)
+
+1. feat: 加入德语、法语、意大利语、日语、韩语、俄语、繁体中文多语言支持
+
 ## [v1.1.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.1.0)
 
 1. 新增：坏点循环检测工具
