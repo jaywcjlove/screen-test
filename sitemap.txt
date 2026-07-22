@@ -1,10 +1,10 @@
 https://wangchujiang.com/screen-test/index.html
-https://wangchujiang.com/screen-test/index.zh.html
 https://wangchujiang.com/screen-test/CHANGELOG.html
 https://wangchujiang.com/screen-test/CHANGELOG.zh.html
-https://wangchujiang.com/screen-test/feedback.html
+https://wangchujiang.com/screen-test/index.zh.html
 https://wangchujiang.com/screen-test/feedback.zh.html
 https://wangchujiang.com/screen-test/terms-of-service.html
+https://wangchujiang.com/screen-test/feedback.html
 https://wangchujiang.com/screen-test/terms-of-service.zh.html
 https://wangchujiang.com/screen-test/privacy-policy.html
 https://wangchujiang.com/screen-test/privacy-policy.zh.html
