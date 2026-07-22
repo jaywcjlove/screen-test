@@ -11,6 +11,11 @@ Changelog
 </a>
 
 
+## [v1.3.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.3.0)
+
+1. feat: add Space pause shortcut and refine Dead Pixel controls  
+2. feat: add Refresh Rate test tool
+
 ## [v1.2.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.2.0)
 
 1. feat: add de/fr/it/ja/ko/ru/zh_hant langauge.

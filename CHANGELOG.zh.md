@@ -10,6 +10,11 @@
 <img alt="Screen Test AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.3.0)
+
+1. 新增：添加 Space 键暂停快捷键，并优化坏点检测控制功能  
+2. 新增：添加刷新率测试工具
+
 ## [v1.2.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.2.0)
 
 1. feat: 加入德语、法语、意大利语、日语、韩语、俄语、繁体中文多语言支持
