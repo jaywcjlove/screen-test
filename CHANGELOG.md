@@ -10,6 +10,10 @@ Changelog
 <img alt="Screen Test AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.4.0)
+
+1. feat: Update App icon.
+2. perf: optimize CPU usage.
 
 ## [v1.3.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.3.0)
 

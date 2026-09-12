@@ -10,6 +10,11 @@
 <img alt="Screen Test AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.4.0)
+
+1. feat: 更新应用图标
+2. perf: 优化 CPU 占用
+
 ## [v1.3.0](https://github.com/jaywcjlove/screen-test/releases/tag/v1.3.0)
 
 1. 新增：添加 Space 键暂停快捷键，并优化坏点检测控制功能  
